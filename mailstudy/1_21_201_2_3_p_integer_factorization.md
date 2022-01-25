@@ -1,4 +1,4 @@
-**소인수분해(integer factorization)**  **Level 2**<img src="1_21_201_2_3_p_integer_factorization.assets/QR_1_21_201_2_3_p_integer_factorization.png" style="zoom:25%;" />
+**소인수분해(integer factorization)**  **Level 2**
 
 다음 중 옳지 않은 것은? 
 
